@@ -5,27 +5,27 @@
 Bootcamp voltado para a criação de jogos com JavaScript puro, voltado para o desenvolvimento de habilidades Front-end.
 
 ### Atividades.
-[X] [Bem-vindo à DIO](https://www.dio.me/certificate/43138AE6/share){:target="_blank"}
+[X] [Bem-vindo à DIO](https://www.dio.me/certificate/43138AE6/share:target="_blank")
 
-[X] [Lógica de Programação](https://www.dio.me/certificate/E307CC27/share){:target="_blank"}
+[X] [Lógica de Programação](https://www.dio.me/certificate/E307CC27/share)
 
-[X] [Introdução ao Git e ao Github](https://www.dio.me/certificate/E935200E/share){:target="_blank"}
+[X] [Introdução ao Git e ao Github](https://www.dio.me/certificate/E935200E/share)
 
-[X] [Introdução a criação de websites com HTML5 e CSS3](https://www.dio.me/certificate/B9A30048/share){:target="_blank"}
+[X] [Introdução a criação de websites com HTML5 e CSS3](https://www.dio.me/certificate/B9A30048/share)
 
-[X] [Recriando a página Inicial do Instagram](https://www.dio.me/certificate/F7CF0CD7/share){:target="_blank"}
+[X] [Recriando a página Inicial do Instagram](https://www.dio.me/certificate/F7CF0CD7/share)
 
-[X] [Conceitos de responsividade e experiência do usuário](https://www.dio.me/certificate/4D4E4413/share){:target="_blank"}
+[X] [Conceitos de responsividade e experiência do usuário](https://www.dio.me/certificate/4D4E4413/share)
 
-[X] [Programção para a internet com JavaScript](https://www.dio.me/certificate/89B09521/share){:target="_blank"}
+[X] [Programção para a internet com JavaScript](https://www.dio.me/certificate/89B09521/share)
 
-[X] [Recriando a interface do Netflix](https://www.dio.me/certificate/6A492DBD/share){:target="_blank"}
+[X] [Recriando a interface do Netflix](https://www.dio.me/certificate/6A492DBD/share)
 
-[X] [Introdução a Programação com JavaScript (Desafio)](https://web.dio.me/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/javascript-game-developer){:target="_blank"}
+[X] [Introdução a Programação com JavaScript (Desafio)](https://web.dio.me/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/javascript-game-developer)
 
-[X] [Fundamentos Aritméticos em JavaScript (Desafio)](https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/javascript-game-developer){:target="_blank"}
+[X] [Fundamentos Aritméticos em JavaScript (Desafio)](https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/javascript-game-developer)
 
-[X] [Desenvolvimento avançado com JavaScript ES6](https://www.dio.me/certificate/FDF39E63/share){:target="_blank"}
+[X] [Desenvolvimento avançado com JavaScript ES6](https://www.dio.me/certificate/FDF39E63/share)
 
 [O] JavaScript ES6 essencial
 
