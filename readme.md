@@ -5,7 +5,7 @@
 Bootcamp voltado para a criação de jogos com JavaScript puro, voltado para o desenvolvimento de habilidades Front-end.
 
 ### Atividades.
-[X] [Bem-vindo à DIO](https://www.dio.me/certificate/43138AE6/share{:target="_blank"})
+[X] [Bem-vindo à DIO](https://www.dio.me/certificate/43138AE6/share)
 
 [X] [Lógica de Programação](https://www.dio.me/certificate/E307CC27/share)
 
